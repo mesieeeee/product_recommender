@@ -31,4 +31,6 @@ This system uses **transfer learning** to extract image features and **unsupervi
 ---
 
 ## 📁 Project Structure
+- **test** contains the running streamlit app script for **K-Nearest Neighbors** algorithm with multiple distance metrics
+- **test1** contains the running streamlit app script for **K-Means Clustering** to form visually similar product clusters
 
