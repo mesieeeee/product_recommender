@@ -26,7 +26,7 @@ This system uses **transfer learning** to extract image features and **unsupervi
 - **Machine Learning**: Scikit-learn
 - **Model**: ResNet50 (pre-trained)
 - **Frontend/UI**: Streamlit
-- **Data Source**: [Kaggle Product Dataset](https://www.kaggle.com/)
+- **Data Source**: [Kaggle Product Dataset](https://www.kaggle.com/datasets/paramaggarwal/fashion-product-images-dataset)
 
 ---
 
